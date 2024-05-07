@@ -30,4 +30,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-#### "Oque é verdadeiro irá prosperar - Jahseh Onfroy"
+#### "O que é verdadeiro irá prosperar - Jahseh Onfroy"
