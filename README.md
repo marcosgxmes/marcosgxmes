@@ -1,5 +1,5 @@
 
-## Sofware Developer ![image](https://github.com/marcosgxmes/marcosgxmes/assets/129970704/88d0857d-892b-4356-8357-726131abe198)
+## Software Developer ![image](https://github.com/marcosgxmes/marcosgxmes/assets/129970704/88d0857d-892b-4356-8357-726131abe198)
 
 
 
