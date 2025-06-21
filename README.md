@@ -28,5 +28,3 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=next.js&logoColor=white" />
 </div><br/>
-
-#### "O que é verdadeiro irá prosperar - Jahseh Onfroy"
