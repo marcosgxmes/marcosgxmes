@@ -37,7 +37,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <div data-importer="stats" align="center">
-  [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=marcosgxmes)](https://github.com/marcosgxmes/github-readme-stats-fast)
+  (https://github-readme-stats-fast.vercel.app/api?username=marcosgxmes)](https://github.com/marcosgxmes/github-readme-stats-fast)
+  (https://github-readme-stats-fast.vercel.app/api/top-langs/?username=marcosgxmes)](https://github.com/marcosgxmes/github-readme-stats-fast)
   
 </div>
 
