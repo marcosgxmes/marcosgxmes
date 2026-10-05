@@ -3,7 +3,7 @@
 
 ## Software developer
 
-<h2 align="center">🛠️ Language and tools</h2>
+<h2 align="center">🛠️ Languages and tools</h2>
 
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
@@ -26,15 +26,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <br>
+  <br>  
   
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
