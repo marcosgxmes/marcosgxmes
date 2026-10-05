@@ -12,7 +12,9 @@ Meu objetivo é atuar como **Desenvolvedor Web**, com foco na criação de aplic
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,javascript,vite" />
+  <br>
   <img src="https://skillicons.dev/icons?i=python,java,firebase,mysql,mongodb" />
+  <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel" />
 </div>
 
