@@ -9,10 +9,9 @@ Olá! Eu sou **Marcos Gomes**, estudante de **Análise e Desenvolvimento de Sist
 
 ## 🚀 Tecnologias
 
-### 🎨 Front-end
+### <h2 text="center">🎨 Front-end</h2>
 
 <div align="center">
-  ### 🎨 Front-end
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js" />
