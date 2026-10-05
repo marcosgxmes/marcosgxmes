@@ -1,7 +1,8 @@
-# 👨‍💻 Marcos Gomes
+# 👨‍💻 Olá, eu sou Marcos Gomes
 
-Olá! Eu sou **Marcos Gomes**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia e desenvolvimento de software.
-Meu objetivo é atuar como **Desenvolvedor Web**, com foco na criação de aplicações modernas, responsivas e funcionais. Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meus conhecimentos em prática e evoluir constantemente como desenvolvedor.
+Estudante de **ADS** e fascinado por tecnologia, jogos e animes. <br>
+Meu objetivo é atuar como **Desenvolvedor web**, com foco na criação de aplicações modernas, responsivas e funcionais. 
+Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meus conhecimentos em prática e evoluir constantemente como desenvolvedor.
 
 ---
 
