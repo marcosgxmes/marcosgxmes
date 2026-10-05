@@ -21,8 +21,8 @@ Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meu
 ## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170" />
 </div>
 
 ---
