@@ -12,6 +12,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="react logo"  />
+  <img width="12" /> 
   <br/>
 
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
