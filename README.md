@@ -3,27 +3,19 @@
 ### Desenvolvedor Web em formação
 
 Olá! Eu sou **Marcos Gomes**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia e desenvolvimento de software.
-🎯 **Meu objetivo profissional é atuar como Desenvolvedor Web**, evoluindo constantemente minhas habilidades técnicas e contribuindo para projetos que gerem experiências e soluções de qualidade.
+
+Meu objetivo é atuar como **Desenvolvedor Web**, com foco na criação de aplicações modernas, responsivas e funcionais. Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meus conhecimentos em prática e evoluir constantemente como desenvolvedor.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
-### 
+### 🎨 Front-end
 
 <div align="center">
-  <h2 text="center">🎨 Front-end</h2> <br>
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="55" alt="Vite" />
+
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,javascript,vite" />
+
 </div>
 
 ---
@@ -31,59 +23,49 @@ Olá! Eu sou **Marcos Gomes**, estudante de **Análise e Desenvolvimento de Sist
 ### ⚙️ Back-end & Banco de Dados
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="55" alt="Firebase" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" />
+
+<img src="https://skillicons.dev/icons?i=python,java,firebase,mysql,mongodb" />
+
 </div>
 
 ---
 
-### 🛠️ Ferramentas & Ambiente
+### 🔧 Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="55" alt="IntelliJ IDEA" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="Vercel" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="165" alt="GitHub Stats" />
 
-  <img src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="Linguagens mais utilizadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="170" />
+
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/marcosgxmes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:marcosgms777@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://wa.me/5511948995770" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 </div>
@@ -92,6 +74,6 @@ Olá! Eu sou **Marcos Gomes**, estudante de **Análise e Desenvolvimento de Sist
 
 <div align="center">
 
-### 💻 "Transformando ideias em soluções através da tecnologia."
+### 💻 Desenvolvendo ideias, aprendendo todos os dias e construindo meu caminho na tecnologia.
 
 </div>
