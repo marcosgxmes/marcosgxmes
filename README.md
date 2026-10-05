@@ -3,9 +3,6 @@
 ### Desenvolvedor Web em formação
 
 Olá! Eu sou **Marcos Gomes**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia e desenvolvimento de software.
-
-Atualmente, estou direcionando meus estudos para o **desenvolvimento web**, com foco principalmente em **Front-end**, buscando aprimorar minhas habilidades na criação de aplicações modernas, responsivas e funcionais.
-
 🎯 **Meu objetivo profissional é atuar como Desenvolvedor Web**, evoluindo constantemente minhas habilidades técnicas e contribuindo para projetos que gerem experiências e soluções de qualidade.
 
 ---
@@ -15,6 +12,7 @@ Atualmente, estou direcionando meus estudos para o **desenvolvimento web**, com 
 ### 🎨 Front-end
 
 <div align="center">
+  ### 🎨 Front-end
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js" />
@@ -59,18 +57,6 @@ Atualmente, estou direcionando meus estudos para o **desenvolvimento web**, com 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="Vercel" />
 </div>
-
----
-
-## 📚 Atualmente estudando
-
-* 🌐 Desenvolvimento Web
-* ⚛️ React e Next.js
-* 📘 TypeScript
-* 🐍 Python
-* 🗄️ Banco de Dados
-* 🔧 Boas práticas de desenvolvimento
-* 🔄 Metodologias ágeis
 
 ---
 
