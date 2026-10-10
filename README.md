@@ -51,5 +51,5 @@ Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meu
 ---
 
 <div align="center">
-  ### 💻 Desenvolvendo ideias, aprendendo todos os dias e construindo meu caminho.
+  💻 Desenvolvendo ideias, aprendendo todos os dias e construindo meu caminho.
 </div>
