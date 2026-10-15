@@ -26,8 +26,20 @@ Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meu
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="170" />  
+  
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&cache_seconds=86400"
+    height="170"
+    alt="Linguagens mais utilizadas"
+  />
+</div>
+  
 </div>
 
 ---
