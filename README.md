@@ -43,6 +43,12 @@ Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meu
   
 </div>
 
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ---
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Contato
