@@ -10,7 +10,6 @@ Estudante de **ADS** e fascinado por tecnologia, jogos e animes. <br>
 Meu objetivo é atuar como **Desenvolvedor web**, com foco na criação de aplicações modernas, responsivas e funcionais. 
 Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meus conhecimentos em prática e evoluir constantemente como desenvolvedor.
 
----
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tecnologias
 
@@ -27,40 +26,33 @@ Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meu
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  GitHub
 
 <div align="center">
-  
-<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"
     height="170"
     alt="Estatísticas do GitHub"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=86400"
     height="170"
     alt="Linguagens mais utilizadas"
   />
 </div>
-  
-</div>
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgxmes&radius=16&theme=dracula&area=true"
+    height="300"
+    alt="Gráfico de atividade do GitHub"
+  />
 </div>
 
 ---
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Contato
 
-<h1 data-importer="text" align="center"></h1>
 
-###
-
-<div data-importer="techs" align="center">
-</div>
-
-###
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -73,31 +65,17 @@ Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meu
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
-###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<h1 data-importer="text" align="center"></h1>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
-####
-
+###
 <div align="center">
   💻 Desenvolvendo ideias, aprendendo todos os dias e construindo meu caminho.
 </div>
