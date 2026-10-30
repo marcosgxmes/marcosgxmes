@@ -29,28 +29,12 @@ Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnolo
 </div>
 
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  GitHub
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Estatísticas
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
-    height="165"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&langs_count=5&theme=dracula"
-    height="165"
-    alt="Linguagens mais usadas"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgxmes&theme=dracula"
-    width="100%"
-    alt="Gráfico de atividade do GitHub"
-  />
-</p>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=marcosgxmes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=marcosgxmes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" >
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=marcosgxmes&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=marcosgxmes&layout=compact&langs_count=4&theme=midnight-purple" >
+</div>
 
 
 
