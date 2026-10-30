@@ -33,22 +33,22 @@ Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnolo
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/stats-output/stats.svg"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    height="165"
     alt="Estatísticas do GitHub"
   />
   <img
-    src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/languages-output/languages.svg"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&langs_count=5&theme=dracula"
+    height="165"
     alt="Linguagens mais usadas"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/activity-graph-output/activity-graph.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marcosgxmes&theme=dracula"
     width="100%"
-    alt="Gráfico de atividade"
+    alt="Gráfico de atividade do GitHub"
   />
 </p>
 
