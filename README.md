@@ -53,7 +53,9 @@ Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnolo
 
 
 <h1 data-importer="text" align="center"></h1>
+
 ###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/output/bomberman-contribution-graph.svg?game=bomberman">
