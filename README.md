@@ -18,8 +18,8 @@ Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento de So
 Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnologia. Fique à vontade para entrar em contato e trocar experiência.
 
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tecnologias
 
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tecnologias
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vite,react,javascript,typescript,nextjs,tailwind" /><br>
   <br>
@@ -31,18 +31,27 @@ Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnolo
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  GitHub
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=marcosgxmes&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400"
-    height="170"
+    src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/stats-output/stats.svg"
+    height="150"
     alt="Estatísticas do GitHub"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgxmes&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=86400"
-    height="170"
-    alt="Linguagens mais utilizadas"
+    src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/languages-output/languages.svg"
+    height="150"
+    alt="Linguagens mais usadas"
   />
-</div>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/activity-graph-output/activity-graph.svg"
+    width="100%"
+    alt="Gráfico de atividade"
+  />
+</p>
+
 
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Contato
@@ -60,7 +69,6 @@ Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnolo
 
 
 <h1 data-importer="text" align="center"></h1>
-
 ###
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosgxmes/marcosgxmes/output/bomberman-contribution-graph-dark.svg?game=bomberman">
