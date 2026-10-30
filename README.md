@@ -2,7 +2,7 @@
 <p align="center"> 
 <img
   src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif"
-  style="width: 100%; height: 300px; object-fit: cover; object-position: center;"
+  style="height: 400px; object-fit: cover; object-position: center;"
   alt="Banner animado"
 />
 </p>
