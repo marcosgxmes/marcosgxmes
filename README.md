@@ -1,14 +1,17 @@
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/d0/e6/79/d0e6790ea3dffd256a1e52b99a29eb33.jpg" /> 
+<p align="center"> 
+<img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" >
 </p>
 
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Olá, eu sou Marcos Gomes
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Sobre mim
 
-Estudante de **ADS** e fascinado por tecnologia, jogos e animes. <br>
-Meu objetivo é atuar como **Desenvolvedor web**, com foco na criação de aplicações modernas, responsivas e funcionais. 
+Estudante de **ADS** e fascinado por tecnologia, jogos e animes. Meu objetivo é atuar como **Desenvolvedor web**, com foco na criação de aplicações modernas, responsivas e funcionais. 
 Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meus conhecimentos em prática e evoluir constantemente como desenvolvedor.
+
+Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento de Software, na qual possa aplicar meus conhecimentos, desenvolver minhas habilidades técnicas, aprender com profissionais da área e contribuir para a criação de soluções tecnológicas.
+
+Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnologia. Fique à vontade para entrar em contato e trocar experiência.
 
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tecnologias
