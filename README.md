@@ -7,18 +7,6 @@
 </h1>
 
 
-
-
-
-<p align="center"> 
-<img
-  src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif"
-  style="height: 345px; object-fit: cover; object-position: center;"
-  alt="Banner animado"
-/>
-</p>
-
-
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Sobre mim
 
 Estudante de **ADS** e fascinado por tecnologia, jogos e animes. Meu objetivo é atuar como **Desenvolvedor web**, com foco na criação de aplicações modernas, responsivas e funcionais. 
