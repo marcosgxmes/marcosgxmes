@@ -34,10 +34,12 @@
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Estatísticas
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=marcosgxmes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=marcosgxmes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" >
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=marcosgxmes&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=marcosgxmes&layout=compact&langs_count=4&theme=midnight-purple" >
-</div>
+
+  <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=marcosgxmes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=marcosgxmes&layout=compact&langs_count=4&theme=midnight-purple" alt="Linguagens mais usadas" />
+</p>
+
 
 
 <h1 data-importer="text" align="center"></h1>
