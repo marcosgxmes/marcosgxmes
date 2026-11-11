@@ -6,16 +6,18 @@
   </a>
 </h1>
 
+> **Desenvolvedor de Software** e estudante de Análise e Desenvolvimento de Sistemas. Gosto de transformar ideias em produtos que funcionam de verdade, do primeiro protótipo até o sistema no ar. Trabalho com React, TypeScript, Python e MySQL, criando aplicações modernas, responsivas e funcionais. Uso projetos pessoais e acadêmicos para praticar o que aprendo e evoluir como desenvolvedor. O que me motiva é escrever código bem feito que resolva problemas de pessoas reais.
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Sobre mim
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcosgxmes/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/5511948995770" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:marcosgms777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Estudante de **ADS** e fascinado por tecnologia, jogos e animes. Meu objetivo é atuar como **Desenvolvedor web**, com foco na criação de aplicações modernas, responsivas e funcionais. 
-Atualmente, venho desenvolvendo projetos pessoais e acadêmicos para colocar meus conhecimentos em prática e evoluir constantemente como desenvolvedor.
-
-Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento de Software, na qual possa aplicar meus conhecimentos, desenvolver minhas habilidades técnicas, aprender com profissionais da área e contribuir para a criação de soluções tecnológicas.
-
-Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnologia. Fique à vontade para entrar em contato e trocar experiência.
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack-3178C6?style=flat-square&logo=react&logoColor=white"/>
+</p>
 
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tecnologias
@@ -33,21 +35,6 @@ Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnolo
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=marcosgxmes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=marcosgxmes&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" >
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=marcosgxmes&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=marcosgxmes&layout=compact&langs_count=4&theme=midnight-purple" >
-</div>
-
-
-
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)  Contato
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
 
