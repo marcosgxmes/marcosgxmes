@@ -14,10 +14,12 @@
   <a href="mailto:marcosgms777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend-512BD4?style=flat-square&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full--Stack-3178C6?style=flat-square&logo=react&logoColor=white"/>
+<p align="left">  
+  <img src="https://img.shields.io/badge/Front--End-E34F26?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Back--End-2E7D32?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack-7B1FA2?style=flat-square&logo=react&logoColor=white"/>
 </p>
+
 
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tecnologias
