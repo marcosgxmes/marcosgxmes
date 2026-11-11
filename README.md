@@ -1,7 +1,7 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=marcosgxmes&color=blueviolet&style=flat-square" alt="views"/>
+
 
 <h1 align="left">
-  <a href="https://marujo.dev">
+  <a href="/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8B5CF6&width=520&lines=Marcos+Gomes+%F0%9F%91%8B;Software+Developer;Building+intelligent+systems" alt="Typing SVG" />
   </a>
 </h1>
