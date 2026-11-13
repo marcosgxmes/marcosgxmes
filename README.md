@@ -6,18 +6,18 @@
   </a>
 </h1>
 
-> **Desenvolvedor de Software** e estudante de Análise e Desenvolvimento de Sistemas. Gosto de transformar ideias em produtos que funcionam de verdade, do primeiro protótipo até o sistema no ar. Trabalho com React, TypeScript, Python e MySQL, criando aplicações modernas, responsivas e funcionais. Uso projetos pessoais e acadêmicos para praticar o que aprendo e evoluir como desenvolvedor. O que me motiva é escrever código bem feito que resolva problemas de pessoas reais.
+> **Desenvolvedor de Software** e estudante de Análise e Desenvolvimento de Sistemas, gosto de transformar ideias em produtos que funcionam de verdade, do primeiro protótipo até o sistema no ar. Trabalho com React, TypeScript, Python e MySQL, criando aplicações modernas, responsivas e funcionais. Uso projetos pessoais e acadêmicos para praticar o que aprendo e evoluir como desenvolvedor. O que me motiva é escrever código bem feito que resolva problemas de pessoas reais.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marcosgxmes/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/5511948995770" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/5511948995770" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-10AA50?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="mailto:marcosgms777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="left">  
-  <img src="https://img.shields.io/badge/Front--End-E34F26?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Back--End-2E7D32?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack-7B1FA2?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Front--End-FE315D?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Back--End-FFCE3D?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack-7B1FA2?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
 
